@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://steinhaeuser-maler.de/sitemap.xml
+
+# Crawl-delay (optional, polite for smaller servers)
+Crawl-delay: 10
